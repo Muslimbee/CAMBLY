@@ -7,6 +7,8 @@ import ChooseYouRownTutor from './Main/ChooseYouRownTutor/ChooseYouRownTutor'
 import Carusel from './Main/Carusel/Carusel'
 import { AppProvider, useGlobalContext } from './context'
 import Login from './Components/Login/Login'
+import Courses from './Main/Courses/Courses'
+import Cambly from './Main/Cambly/Cambly'
 
 function App() {
      
@@ -18,6 +20,8 @@ function App() {
      <OnlineEnglish/>
      <ChooseYouRownTutor/>
      <Carusel/>
+     <Courses />
+     <Cambly/>
     
     
      <Routes>

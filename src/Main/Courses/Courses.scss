@@ -1,0 +1,130 @@
+.Courses{
+    max-width: 100%;
+    .container{
+        width: 1000px;
+        margin: 0 auto;
+        h1{
+            color: #4d95ea;
+            font-weight: 860;
+            text-align: center;
+            font-size: 40px;
+            margin-top: 35px;
+        }
+        p{
+            color: #191919;
+            font-weight: 400;
+            text-align: center;
+            font-size: 14px;
+            margin-top: 20px;
+        }
+        .container-button{
+            background: #ffc929;
+            color: #191919;
+            border-radius: 16px;
+            -webkit-border-radius: 16px;
+            -moz-border-radius: 16px;
+            -ms-border-radius: 16px;
+            -o-border-radius: 16px;
+            width: 198px;
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto;
+            margin-top: 30px;
+            font-weight: 500;
+            font-size: 16px;
+            i{
+                font-size: 28px;
+            }
+        }
+        .cards{
+            width: 100%;
+            margin-top: 250px;
+            display: flex;
+            justify-content: space-between;
+            gap: 25px;
+            .card{
+                flex: 3;
+                height: 444px;
+                background: #eff6fa;
+                border-radius: 24px;
+                -webkit-border-radius: 24px;
+                -moz-border-radius: 24px;
+                -ms-border-radius: 24px;
+                -o-border-radius: 24px;
+                padding-bottom: 32px;
+                padding-top: 32px;
+                padding-left: 20px;
+                padding-right: 20px;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                position: relative;
+                img{
+                    width: 106px;
+                }
+                p{
+                    font-weight: 400;
+                    font-size: 16px;
+                    text-align: center;
+                    color: #191919;
+                    width: 100%;
+                    border: 0;
+                    padding: 0;
+                    margin: 0;
+                    margin-top: 30px;
+                    // border: 1px solid;
+                }
+                h6{
+                    font-weight: 700;
+                    font-size: 14px;
+                    text-align: start;
+                    // margin-top: 160px;
+                    margin-bottom: 40px;
+                    display: flex;
+                    bottom: 20px;
+                    position: absolute;
+                }
+                .p{
+                    margin-top: 5px;
+                    font-size: 14px;
+                    bottom: 40px;
+                    position: absolute;
+
+                }
+            }
+        }
+        .Achieve{
+            font-weight: 860;
+            text-align: center;
+            width: 75%;
+            margin: 0 auto;
+            margin-top: 40px;
+        }
+        .learning{
+            padding: 0 20px;
+            background: #ffc929;
+            color: #191919;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 168px;
+            height: 48px;
+            border-radius: 16px;
+            -webkit-border-radius: 16px;
+            -moz-border-radius: 16px;
+            -ms-border-radius: 16px;
+            -o-border-radius: 16px;
+            font-weight: 500;
+            text-align: start;
+            font-size: 16px;
+            margin: 0 auto;
+            margin-top: 55px;
+            i{
+                font-size: 23px;
+            }
+}
+            
+    }
+}
