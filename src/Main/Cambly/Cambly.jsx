@@ -13,8 +13,8 @@ export default function Cambly() {
             <div className="container">
                 <div className="cambly-on">
                 <div className="vedio">
-                <video className='vedio-org' autoPlay loop playsInline controls>
-                <source src="https://camblycdnimages.camblycdn.com/classroom_teacher_student_mobile.mp4" controls type="video/mp4" onPlay={true}/>
+                <video className='vedio-org' autoPlay loop playsInline>
+                <source src="https://camblycdnimages.camblycdn.com/classroom_teacher_student_mobile.mp4"  type="video/mp4" onPlay={true}/>
                 </video>
                 </div>
                 <div className="list">

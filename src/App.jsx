@@ -9,6 +9,7 @@ import { AppProvider, useGlobalContext } from './context'
 import Login from './Components/Login/Login'
 import Courses from './Main/Courses/Courses'
 import Cambly from './Main/Cambly/Cambly'
+import Index from './Main/Index'
 
 function App() {
      
@@ -17,18 +18,13 @@ function App() {
   return (
     <>
      <Navbar/>
-     <OnlineEnglish/>
-     <ChooseYouRownTutor/>
-     <Carusel/>
-     <Courses />
-     <Cambly/>
+     
     
     
      <Routes>
       <Route path='/login' element={ <Login/> }  />
-      {/* <Route path='/' element={} />
-      <Route path='/' element={ }/>
-      <Route path='/' element={}/> */}
+      <Route path='/' element={ <Index />} />
+
      </Routes>
 
      <h2>salom</h2>
