@@ -13,7 +13,7 @@ export default function Courses() {
                 <p>Focus on your specific goals with our guided courses, including academic test prep, business English, conversation practice, and more.</p>
                 <button className='container-button explore'>
                     Explore all courses
-                    <i class='bx bx-right-arrow-alt' ></i>
+                    <i className='bx bx-right-arrow-alt' ></i>
                     </button>
 
                 <div className="cards">
@@ -39,7 +39,7 @@ export default function Courses() {
                 <h1 className='Achieve'>Achieve your goals by learning English with Cambly</h1>
                 <button className='learning'>
                     Start learning 
-                    <i class='bx bx-right-arrow-alt' ></i>
+                    <i className='bx bx-right-arrow-alt' ></i>
                 </button>
             </div>
         </div>

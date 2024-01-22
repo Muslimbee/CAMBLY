@@ -14,7 +14,7 @@ export default function ChooseYouRownTutor() {
             <div className="container">
               <h1 className='h1 custom'>Choose your own tutor</h1>
               <p>Choose the tutor that has the personality, professional experience, or focus area you need!</p>
-              <button>Start learning <i class='bx bx-right-arrow-alt'></i></button>
+              <button>Start learning <i className='bx bx-right-arrow-alt'></i></button>
               <h1 className='h1 big'>Pick the plan that works for you</h1>
               <div className="cards">
                 <div className="card">
@@ -26,15 +26,15 @@ export default function ChooseYouRownTutor() {
                     <p>Full access to all of Cambly</p>
                     <ul>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                      <h6> Our most comprehensive experience</h6>
                       </li>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                      <h6> Practice 1:1 or in a group</h6>
                       </li>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                     <h6>  Schedule ahead or on demand</h6>
                       </li>
 
@@ -48,7 +48,7 @@ export default function ChooseYouRownTutor() {
                     </div>
                   <button className='card-button yellow'>
                     Sign up 
-                  <i class='bx bx-right-arrow-alt' ></i>
+                  <i className='bx bx-right-arrow-alt' ></i>
                   </button>
                   </div>
                 </div>
@@ -61,15 +61,15 @@ export default function ChooseYouRownTutor() {
                     <p>Only group lessons</p>
                     <ul>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                      <h6>Real-world conversation experience</h6>
                       </li>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                      <h6>Work with a tutor and 1-2 other students</h6>
                       </li>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                     <h6>For adults 21+</h6>
                       </li>
                     </ul>
@@ -82,7 +82,7 @@ export default function ChooseYouRownTutor() {
                     </div>
                   <button className='card-button yellow'>
                     Sign up 
-                  <i class='bx bx-right-arrow-alt' ></i>
+                  <i className='bx bx-right-arrow-alt' ></i>
                   </button>
                   </div>
                 </div>
@@ -95,15 +95,15 @@ export default function ChooseYouRownTutor() {
                     <p>For kids under 18</p>
                     <ul>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                      <h6> 1:1 time with specialized tutors</h6>
                       </li>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                      <h6> Beginner to advanced courses available</h6>
                       </li>
                       <li>
-                      <i class='bx bx-check'></i>
+                      <i className='bx bx-check'></i>
                     <h6>Fun games and activities</h6>
                       </li>
 
@@ -117,7 +117,7 @@ export default function ChooseYouRownTutor() {
                     </div>
                   <button className='card-button yellow'>
                     Sign up 
-                  <i class='bx bx-right-arrow-alt' ></i>
+                  <i className='bx bx-right-arrow-alt' ></i>
                   </button>
                   </div>
                 </div>
@@ -132,7 +132,7 @@ export default function ChooseYouRownTutor() {
                 </div>
                 <button className='hero-button yellow'>
                   Sign up
-                  <i class='bx bx-right-arrow-alt' ></i>
+                  <i className='bx bx-right-arrow-alt' ></i>
                 </button>
               </div>
               <div className="resources">
@@ -141,7 +141,7 @@ export default function ChooseYouRownTutor() {
                   <p className='resources-p'>Get a taste of Cambly with our most popular tools and guides. No subscription required.</p>
                   <button className='resources-button yellow'>
                     Join now 
-                    <i class='bx bx-right-arrow-alt' ></i>
+                    <i className='bx bx-right-arrow-alt' ></i>
                   </button>
                 </div>
                 <div className="resources-right">

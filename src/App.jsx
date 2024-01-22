@@ -27,7 +27,6 @@ function App() {
 
      </Routes>
 
-     <h2>salom</h2>
    
     </>
   )

@@ -19,7 +19,7 @@ export default function OnlineEnglish() {
                     Online English classes with native speakers
                     </h1>
                     <button>
-                        Get startet <i class='bx bx-right-arrow-alt' ></i>
+                        Get startet <i className='bx bx-right-arrow-alt' ></i>
                     </button>
                 </div>
                 <div className="hero-right">
@@ -36,7 +36,7 @@ export default function OnlineEnglish() {
                           <h2>Joshua</h2>
                         </div>
                         <div className="star">
-                        <i class='bx bxs-star'></i>
+                        <i className='bx bxs-star'></i>
                         <p>4.90</p>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ export default function OnlineEnglish() {
                              <h2>Whithey</h2>
                         </div>
                         <div className="star">
-                        <i class='bx bxs-star'></i>
+                        <i className='bx bxs-star'></i>
                         <p>4.90</p>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ export default function OnlineEnglish() {
                             <h2>Nikola</h2>
                         </div>
                         <div className="star">
-                        <i class='bx bxs-star'></i>
+                        <i className='bx bxs-star'></i>
                         <p>4.90</p> 
                         </div>
                     </div>
@@ -87,7 +87,7 @@ export default function OnlineEnglish() {
                              <h2>Alana</h2>
                         </div>
                         <div className="star">
-                        <i class='bx bxs-star'></i>
+                        <i className='bx bxs-star'></i>
                         <p>4.90</p>
                         </div>
                     </div>

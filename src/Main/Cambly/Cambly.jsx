@@ -31,19 +31,19 @@ export default function Cambly() {
                         <img src={doctor} alt="" />
                         <h3>New Group Lessons</h3>
                         <p>A fun way to practice English, guided by a native English-speaking Cambly tutor.</p>
-                        <i class='bx bx-right-arrow-alt' ></i>
+                        <i className='bx bx-right-arrow-alt' ></i>
                     </button>
                     <button className='b-2'>
                     <img src={bino} alt="" />
                         <h3>For organations</h3>
                         <p>Empower your team with practical, real-world English skills they need to excel in global business.</p>
-                        <i class='bx bx-right-arrow-alt' ></i>
+                        <i className='bx bx-right-arrow-alt' ></i>
                     </button>
                     <button className='b-3'>
                     <img src={tutiqush} alt="" />
                         <h3>For kids</h3>
                         <p>Unlock your child’s global future with lessons filled with fun and games that have them speaking English from day 1.</p>
-                        <i class='bx bx-right-arrow-alt' ></i>
+                        <i className='bx bx-right-arrow-alt' ></i>
                     </button>
                 </div>
                 <div className="Become">
@@ -55,7 +55,7 @@ export default function Cambly() {
                         <p>Join our English tutoring community to enjoy flexible scheduling and rewarding conversations with people from all over the world.</p>
                         <button>
                             Get started
-                            <i class='bx bx-right-arrow-alt' ></i>
+                            <i className='bx bx-right-arrow-alt' ></i>
                         </button>
                     </div>
                 </div>
